@@ -13,22 +13,22 @@ The app uses React Router for navigation, useContext for state management, and p
 
 # Technology stack
 
-React: Frontend user interface and components.
-Material-UI: UI components and styling.
-React Router: Navigation within the application.
-Axios: Handling HTTP requests to fetch dish data.
-Local Storage: Storing user data and choices.
-GitHub: Version control and project hosting.
+React: Frontend user interface and components.  
+Material-UI: UI components and styling.  
+React Router: Navigation within the application.  
+Axios: Handling HTTP requests to fetch dish data.  
+Local Storage: Storing user data and choices.  
+GitHub: Version control and project hosting.  
 
 # Features
 
-User Authentication: Easily log in with your username and password.
-Dish Listing: Discover a list of dishes, each with its tantalizing description.
-Ranking: Express your preferences by ranking your top three favorite dishes.
-Voting: Cast your votes and submit your rankings for your preferred dishes.
-Editing Choices: Feel free to make changes to your rankings before the voting period concludes.
-Top Dishes: Explore the top-ranking dishes that have garnered the most votes.
-Results: Check out the final results of the voting, showcasing the ranked dishes.
+User Authentication: Easily log in with your username and password.  
+Dish Listing: Discover a list of dishes, each with its tantalizing description.  
+Ranking: Express your preferences by ranking your top three favorite dishes.  
+Voting: Cast your votes and submit your rankings for your preferred dishes.  
+Editing Choices: Feel free to make changes to your rankings before the voting period concludes.  
+Top Dishes: Explore the top-ranking dishes that have garnered the most votes.  
+Results: Check out the final results of the voting, showcasing the ranked dishes.  
 
 # If you not want to register you can use.
 username: Dhruv password: Dhruv123
