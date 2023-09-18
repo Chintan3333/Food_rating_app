@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "username": "Dhruv",
+      "password": "Dhruv123",
+      "isAdmin":true,
+      "choices": {
+        "rank1": 0,
+        "rank2": 0,
+        "rank3": 0
+      }
+    },
+    {
+      "id": 2,
+      "username": "Renish",
+      "password": "Renish123",
+      "isAdmin":false,
+      "choices": {
+        "rank1": 0,
+        "rank2": 0,
+        "rank3": 0
+      }
+    },
+    {
+      "id": 3,
+      "username": "Krish",
+      "password": "Krish123",
+      "isAdmin":false,
+      "choices": {
+        "rank1": 0,
+        "rank2": 0,
+        "rank3": 0
+      }
+    },
+    {
+      "id": 4,
+      "username": "Meet",
+      "password": "Meet123",
+      "isAdmin":false,
+      "choices": {
+        "rank1": 0,
+        "rank2": 0,
+        "rank3": 0
+      }
+    },
+    {
+      "id": 5,
+      "username": "Jay",
+      "password": "Jay123",
+      "isAdmin":false,
+      "choices": {
+        "rank1": 0,
+        "rank2": 0,
+        "rank3": 0
+      }
+    }
+  ]
